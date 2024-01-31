@@ -1,1 +1,1 @@
-# this is my local repo whih is uploaded from local Machine
+# this is my local repo which is uploaded from local Machine
